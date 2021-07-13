@@ -1,0 +1,19 @@
+.header {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.headshot {
+    width: 13vw;
+    height: auto;
+    border-radius: 110px;
+}
+
+.heading {
+    font-size: 4vw;
+}
+
+.headerButton {
+    margin: 5px;
+    font-size: x-large;
+}

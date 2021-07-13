@@ -1,4 +1,5 @@
-import '../App.css';
+import './Header.css';
+
 import React from 'react';
 import headshot from './headshot.jpg'
 

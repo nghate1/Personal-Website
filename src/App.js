@@ -1,9 +1,10 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css'
+
 import Header from './Components/Header';
 import Cards from './Components/Cards';
 
-import 'bootstrap/dist/css/bootstrap.min.css'
-import {Container, Row, Col, Alert, Button} from 'react-bootstrap'
+import {Container, Row, Col} from 'react-bootstrap'
 
 function App() {
   return (
