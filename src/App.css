@@ -11,5 +11,13 @@
 
 .subTitle {
     font-weight: bold;
-    padding-left: 20px;
+    font-size: 14px;
+}
+
+h5 {
+    font-size: 16px;
+}
+
+h6 {
+    font-size: 14px;
 }
