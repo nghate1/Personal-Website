@@ -13,7 +13,7 @@ function Cards(props) {
                     <Card.Link href={props.addy1}>{props.link1}</Card.Link>
                     <Card.Link href={props.addy2}>{props.link2}</Card.Link>
                 </Card.Body>
-            </Card>
+        </Card>
     )
 }
 

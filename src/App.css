@@ -1,7 +1,15 @@
+.main {
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: whitesmoke;
+}
+
 .section {
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .subTitle {
     font-weight: bold;
+    padding-left: 20px;
 }

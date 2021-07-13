@@ -1,19 +1,21 @@
 .header {
     margin-top: 20px;
     margin-bottom: 20px;
+    align-items: center;
 }
 
 .headshot {
     width: 13vw;
     height: auto;
     border-radius: 110px;
+    margin-top: 20px;
 }
 
 .heading {
-    font-size: 4vw;
+    font-size: 6vw;
 }
 
 .headerButton {
     margin: 5px;
-    font-size: x-large;
+    font-size: 1.5vw;
 }
